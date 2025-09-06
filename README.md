@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/batatacodes/RobloxScr
 
 _Okay, I'm back after a little while. You saw that above there are scripts that can be executed in permitted EXPLOITS (using Loadstring) or in Roblox by getting the source code, but those scripts were simple, but now they will be more complex. Enjoy what's coming._
 
-***Block_New_Character**
+* **Block_New_Character**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/batatacodes/RobloxScripts/refs/heads/main/roblox_block_character_script.lua"))()
 ```
