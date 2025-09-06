@@ -19,4 +19,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/batatacodes/RobloxScr
 loadstring(game:HttpGet("https://raw.githubusercontent.com/batatacodes/RobloxScripts/refs/heads/main/roblox_esp_script.lua"))()
 ```
 
-remembering, none of my Solo scripts are obfuscated! They are all Source Codes that you want to modify at your own risk.
+(remembering, none of my Solo scripts are obfuscated! They are all Source Codes that you want to modify at your own risk.)
+
+_Okay, I'm back after a little while. You saw that above there are scripts that can be executed in permitted EXPLOITS (using Loadstring) or in Roblox by getting the source code, but those scripts were simple, but now they will be more complex. Enjoy what's coming._
+
+ # Block_New_Character
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/batatacodes/RobloxScripts/refs/heads/main/roblox_block_character_script.lua"))()
+```
